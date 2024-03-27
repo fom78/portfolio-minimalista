@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Fernando Omar Masino",
+    "label": "Programador de PLC, instrumentista y electricista con más de 20 años de experiencia & Docente de Programación",
+    "image": "/me.webp",
+    "email": "fom78a@gmail.com",
+    "phone": "+54 3489656693",
+    "url": "https://fom78.com.ar",
+    "summary": "+20 años de experiencia como Electricista e Instrumentista. Trabajando en automatizacion industrial.Actualmente trabajo en desarrollo de celdas roboticas. He trabajado en diferentes entornos: desde el montaje, mantenimiento, puestas en marchas hasta ingenieria.",
+    "location": {
+      "address": "Los pioneros",
+      "postalCode": "2804",
+      "city": "Campana",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fernandomasino",
+        "url": "https://linkedin.com/in/fernandomasino"
+      },
+      {
+        "network": "GitHub",
+        "username": "fom78",
+        "url": "https://github.com/fom78"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Agencia de Aprendizaje a lo largo de la vida",
+      "position": "Docente programa Codo a Codo 4.0",
+      "url": "https://inscripcionesagencia.bue.edu.ar/codoacodo/",
+      "startDate": "2022-07-01",
+      "endDate": null,
+      "summary": "Dictando clases en los programas Codo a Codo Inicial con Python y FullStack NodeJS.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "TREND Ingeniería SRL",
+      "position": "Automatización y Robotica",
+      "url": "https://www.trendingenieria.com.ar/",
+      "startDate": "2024-01-02",
+      "endDate": null,
+      "summary": "En planta Siderca: Integracion de robots ABB comandados con PLC siemens 1500 safety's.Softwares: Robot Studio y TIA Portal, entre otros.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Cervecería y Maltería Quilmes",
+      "position": "Mantenimiento Electro-Instrumental de líneas de producción.",
+      "startDate": "2009-08-01",
+      "endDate": "2023-10-30",
+      "url": "https://www.cerveceriaymalteriaquilmes.com/",
+      "summary": "Calibración de instrumentos, configuración de elementos de campo como VLT's, Gateways ASI, etc. Redes ProfiBus, Ethernet, Asi, etc. Modificación en programas de PLC Siemens S7300 y S7400. Modificación y creación de paneles (HMI) Zenon, Protool, WinCC flexible, según necesidades. Programación en TIA Portal y otros PLC en menor medida, como Omron.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "ALUAR",
+      "position": "Electricista",
+      "startDate": "2004-07-01",
+      "endDate": "2006-08-30",
+      "summary": "Puesta en marcha de un horno de homogeneizado y una sierra de corte de barras de aluminio, que incluye desde el tendido de cables hasta el montaje y conexionado de los equipos, así como la realización de chequeos y pruebas necesarias.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Proyecto O.C.P",
+      "position": "Electro-Instrumentista",
+      "startDate": "2002-06-01",
+      "endDate": "2003-03-30",
+      "summary": "Oleoducto en Ecuador: Estación de bombeo en Cayagama. Proporcioné asistencia técnica para el conexionado y montaje de instrumentos, llevando a cabo reformas en planos eléctricos y P&ID según las necesidades del montaje. Además, desempeñé tareas de control de calidad.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "ESSO",
+      "position": "Electricista",
+      "startDate": "2000-02-01",
+      "endDate": "2004-01-30",
+      "summary": "Trabajando con diferentes contratistas, como ASA, Tecse y Techint, entre otras: Realicé tareas de mantenimiento eléctrico en paradas. En obras, realicé el tendido de cables de potencia y control, reformas en lógicas eléctricas y chequeo de lazos de control. También participé en el conexionado en RIMs y CCH. Desempeñé funciones en sectores como Coker, Catalítico, Tubular, Bulk, Lubricantes, entre otros",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Siemens",
+      "area": "Curso de SIMATIC S7 TIA PORTAL Avanzado",
+      "studyType": "Bachelor",
+      "startDate": "2014-03-15",
+      "endDate": "2014-03-30"
+    },
+    {
+      "institution": "Siemens",
+      "area": "Clínica TIA PORTAL y Capacitación en PCS 7, dictado por Siemens en fábrica Cervecería y Maltería Quilmes.",
+      "studyType": "Bachelor",
+      "startDate": "2013-03-15",
+      "endDate": "2013-03-30"
+    },
+    {
+    "institution": "Universidad Tecnologica Nacional (UTN)",
+    "url": "https://www.frd.utn.edu.ar/",
+    "area": "Ingenieria en sistemas de informacion. Abandonado en 4to año.",
+    "studyType": "Bachelor",
+    "startDate": "1997-01-15",
+    "endDate": "1999-12-20",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [
+   
+    {
+      "name": "PLC",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Instrumentación",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Electricista",
+      "level": "Avanzado"
+    },
+    {
+      "name": "TIA Portal",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Robot Studio",
+      "level": "Avanzado"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado"
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "fluency": "Básico"
+    }
+  ],
+  "projects": [
+  ]
+}
