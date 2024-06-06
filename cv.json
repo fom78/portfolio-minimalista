@@ -1,12 +1,13 @@
 {
+  "language_to_show": "EN",
   "basics": {
     "name": "Fernando Omar Masino",
-    "label": "Programador de PLC, instrumentista y electricista con más de 20 años de experiencia & Docente de Programación",
+    "label": "PLC Programmer and Instrumentation Specialist with over 20 years of experience & Programming Instructor",
     "image": "/me.webp",
     "email": "fom78a@gmail.com",
     "phone": "+54 3489656693",
     "url": "https://fom78.com.ar",
-    "summary": "+20 años de experiencia como Electricista e Instrumentista. Trabajando en automatizacion industrial.Actualmente trabajo en desarrollo de celdas roboticas. He trabajado en diferentes entornos: desde el montaje, mantenimiento, puestas en marchas hasta ingenieria.",
+    "summary": "Over 20 years of experience as a Level 1 Programmer, specializing in industrial automation. Currently, I work on the development of robotic cells using tools such as TIA Portal, Robot Studio, and Python. I live in Campana, Buenos Aires, Argentina. My experience spans various environments, including assembly acceleration, maintenance, commissioning, and engineering.",
     "location": {
       "address": "Los pioneros",
       "postalCode": "2804",
@@ -30,87 +31,74 @@
   "work": [
     {
       "name": "Agencia de Aprendizaje a lo largo de la vida",
-      "position": "Docente programa Codo a Codo 4.0",
+      "position": "Instructor for the Codo a Codo 4.0 program",
       "url": "https://inscripcionesagencia.bue.edu.ar/codoacodo/",
       "startDate": "2022-07-01",
       "endDate": null,
-      "summary": "Dictando clases en los programas Codo a Codo Inicial con Python y FullStack NodeJS.",
+      "summary": "Teaching classes in the Codo a Codo Initial with Python program, covering basic programming tools. Codo a Codo FullStack Python: a complete fullstack course with a frontend using pure HTML, CSS, and JavaScript, and a backend with Flask or Django and MySQL for the database. Codo a Codo FullStack NodeJS: covering a frontend using React or Vue and a backend running on an Express server with a PostgreSQL database. Guiding students in carrying out team-based assignments while applying the pillars of soft skills.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "TREND Ingeniería SRL",
-      "position": "Automatización y Robotica",
+      "position": "Automation and Robotics",
       "url": "https://www.trendingenieria.com.ar/",
-      "startDate": "2024-01-02",
+      "startDate": "2023-01-02",
       "endDate": null,
-      "summary": "En planta Siderca: Integracion de robots ABB comandados con PLC siemens 1500 safety's.Softwares: Robot Studio y TIA Portal, entre otros.",
+      "summary": "At Tenaris: Level 1 programming, integration of ABB robots controlled with Siemens safety PLCs. Expertise in Robot Studio and TIA Portal. Implementations with Python and snap7.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Cervecería y Maltería Quilmes",
-      "position": "Mantenimiento Electro-Instrumental de líneas de producción.",
+      "position": "Electro-Instrumental Maintenance of production lines.",
       "startDate": "2009-08-01",
       "endDate": "2023-10-30",
       "url": "https://www.cerveceriaymalteriaquilmes.com/",
-      "summary": "Calibración de instrumentos, configuración de elementos de campo como VLT's, Gateways ASI, etc. Redes ProfiBus, Ethernet, Asi, etc. Modificación en programas de PLC Siemens S7300 y S7400. Modificación y creación de paneles (HMI) Zenon, Protool, WinCC flexible, según necesidades. Programación en TIA Portal y otros PLC en menor medida, como Omron.",
+      "summary": "Programming of panels and PLCs using TIA Portal.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "ALUAR",
-      "position": "Electricista",
+      "position": "Electro-Instrumental",
       "startDate": "2004-07-01",
       "endDate": "2006-08-30",
-      "summary": "Puesta en marcha de un horno de homogeneizado y una sierra de corte de barras de aluminio, que incluye desde el tendido de cables hasta el montaje y conexionado de los equipos, así como la realización de chequeos y pruebas necesarias.",
+      "summary": "Commissioning of an aluminum homogenizing oven and a bar cutting saw.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Proyecto O.C.P",
-      "position": "Electro-Instrumentista",
+      "position": "Electro-Instrumental",
       "startDate": "2002-06-01",
       "endDate": "2003-03-30",
-      "summary": "Oleoducto en Ecuador: Estación de bombeo en Cayagama. Proporcioné asistencia técnica para el conexionado y montaje de instrumentos, llevando a cabo reformas en planos eléctricos y P&ID según las necesidades del montaje. Además, desempeñé tareas de control de calidad.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "ESSO",
-      "position": "Electricista",
-      "startDate": "2000-02-01",
-      "endDate": "2004-01-30",
-      "summary": "Trabajando con diferentes contratistas, como ASA, Tecse y Techint, entre otras: Realicé tareas de mantenimiento eléctrico en paradas. En obras, realicé el tendido de cables de potencia y control, reformas en lógicas eléctricas y chequeo de lazos de control. También participé en el conexionado en RIMs y CCH. Desempeñé funciones en sectores como Coker, Catalítico, Tubular, Bulk, Lubricantes, entre otros",
+      "summary": "Pipeline in Ecuador: Technical assistance and commissioning.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
+  "volunteerNO IMPLEMENTADO": [{
+    "organization": "NO IMPLEMENTADO",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
   "education": [
-    {
-      "institution": "Siemens",
-      "area": "Curso de SIMATIC S7 TIA PORTAL Avanzado",
-      "studyType": "Bachelor",
-      "startDate": "2014-03-15",
-      "endDate": "2014-03-30"
-    },
-    {
-      "institution": "Siemens",
-      "area": "Clínica TIA PORTAL y Capacitación en PCS 7, dictado por Siemens en fábrica Cervecería y Maltería Quilmes.",
-      "studyType": "Bachelor",
-      "startDate": "2013-03-15",
-      "endDate": "2013-03-30"
-    },
     {
     "institution": "Universidad Tecnologica Nacional (UTN)",
     "url": "https://www.frd.utn.edu.ar/",
-    "area": "Ingenieria en sistemas de informacion. Abandonado en 4to año.",
+    "area": "Information Systems Engineering. Discontinued in the fourth year.",
     "studyType": "Bachelor",
     "startDate": "1997-01-15",
     "endDate": "1999-12-20",
@@ -119,27 +107,39 @@
       "DB1101 - Basic SQL"
     ]
   }],
+  "awardsNO IMPLEMENTADO": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificatesNO IMPLEMENTADO": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publicationsNO IMPLEMENTADO": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
   "skills": [
-   
     {
-      "name": "PLC",
-      "level": "Avanzado"
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
     },
     {
-      "name": "Instrumentación",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Electricista",
-      "level": "Avanzado"
-    },
-    {
-      "name": "TIA Portal",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Robot Studio",
-      "level": "Avanzado"
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
     },
     {
       "name": "JavaScript",
@@ -149,27 +149,147 @@
       ]
     },
     {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
       "name": "Python",
       "level": "Avanzado"
     },
     {
-      "name": "SQL",
+      "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
-      "name": "Git",
-      "level": "Avanzado"
+      "name": "Git/GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "Jira/Trello",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "TIA Portal",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Robot Studio",
+      "level": "Avanzado",
+      "keywords": [
+        "Robotica"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "Inglés",
-      "fluency": "Básico"
+      "language": "English",
+      "fluency": "Intermediate"
     }
   ],
+  "interestsNO IMPLEMENTADO": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "referencesNO IMPLEMENTADO": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
   "projects": [
+    {
+      "name": "COVID-19 Vaccination in Argentina",
+      "isActive": true,
+      "description": "An app that displays the progress of vaccination in Argentina and its provinces, using data from the Ministry of Health.",
+      "highlights": [
+        "NextJS"
+      ],
+      "url": "https://covid-vacuna-ar.vercel.app/",
+      "github": "https://github.com/fom78/covid-vacuna-ar"
+
+    },
+    {
+      "name": "School Parent Association",
+      "isActive": true,
+      "description": "A system for recording payments from cooperative members and providing them with feedback on their submissions.",
+      "highlights": [
+        "React",
+        "Supabase",
+        "Chakra"
+      ],
+      "url": "https://cooperadoras.vercel.app/",
+      "github": "https://github.com/fom78/coop-epb17"
+    },
+    {
+      "name": "Alkemy Acceleration",
+      "isActive": false,
+      "description": "Group project developed during the Alkemy acceleration program. https://youtu.be/n9GTFsK12nM",
+      "highlights": [
+        "NodeJS",
+        "React", 
+        "Postgress y Sequelize", 
+        "Jira"
+      ],
+      "url": "https://somosmas-ten.vercel.app/home",
+      "github": "https://github.com/fom78/alkemy-aceleracion-cliente"
+    }
   ]
 }

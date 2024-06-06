@@ -2,9 +2,12 @@
 import Section from "../Section.astro"
 
 import { education } from "@cv"
+import { getProjectsSection } from "@/generals.js"
+
+const title = getProjectsSection('education')
 ---
 
-<Section title="Educación">
+<Section title={`${title}`}>
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {

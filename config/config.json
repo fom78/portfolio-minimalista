@@ -1,0 +1,21 @@
+{
+    "sections":[
+    {
+        "language":"EN",
+        "about": "About Me",
+        "education": "Education",
+        "experience": "Work Experience",
+        "languages":"Languages",
+        "projects": "Projects",
+        "skills": "Skills"
+    },
+    {
+        "language":"ES",
+        "about": "Sobre Mi",
+        "education": "Educación",
+        "experience": "Experiencia Laboral",
+        "languages":"Idioma",
+        "projects": "Projectos",
+        "skills": "Habilliddes"
+    }
+]}

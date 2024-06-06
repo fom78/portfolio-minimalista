@@ -3,9 +3,12 @@ import Section from "../Section.astro"
 
 import { basics } from "@cv"
 const { summary } = basics
+import { getProjectsSection } from "@/generals.js"
+
+const title = getProjectsSection('about')
 ---
 
-<Section title="Sobre mí">
+<Section title={`${title}`}>
   <p>
     {summary}
   </p>

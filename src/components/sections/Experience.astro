@@ -2,9 +2,12 @@
 import Section from "../Section.astro"
 
 import { work } from "@cv"
----
+import { getProjectsSection } from "@/generals.js"
 
-<Section title="Experiencia laboral">
+const title = getProjectsSection('experience')
+---
+{work.length > 0 &&
+<Section title={`${title}`}>
   <ul>
     {
       work.map(
@@ -44,7 +47,7 @@ import { work } from "@cv"
     }
   </ul>
 </Section>
-
+}
 <style>
   ul {
     display: flex;

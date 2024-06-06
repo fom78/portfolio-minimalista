@@ -8,6 +8,9 @@
       ],
       "@/*": [
         "src/*"
+      ],
+      "@config": [
+        "config/config.json"
       ]
     }
   }

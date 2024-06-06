@@ -4,10 +4,14 @@ import GitHub from "@/icons/GitHub.astro"
 import Section from "../Section.astro"
 
 import { projects } from "@cv"
+import { getProjectsSection } from "@/generals.js"
+
+const title = getProjectsSection('projects')
 ---
 
 {projects.length > 0 &&
-<Section title="Proyectos">
+
+<Section title={`${title}`}>
   <ul>
     {
       projects.map(
