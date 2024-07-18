@@ -6,10 +6,11 @@ const { summary } = basics
 import { getProjectsSection } from "@/generals.js"
 
 const title = getProjectsSection('about')
+
 ---
 
 <Section title={`${title}`}>
   <p>
-    {summary}
+    {basics.summary} 
   </p>
 </Section>
